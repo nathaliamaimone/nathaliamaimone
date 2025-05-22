@@ -3,8 +3,6 @@
 Profissional focada em **Qualidade de Software (QA)**, com formação em **Análise e Desenvolvimento de Sistemas**.  
 Sempre em busca de aprimoramento contínuo e novas experiências na área de tecnologia e testes de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/)
-
 ---
 
 ### 📊 GitHub Stats
@@ -37,4 +35,6 @@ Sempre em busca de aprimoramento contínuo e novas experiências na área de tec
 ### 📫 Let's connect!
 
 Você pode saber mais sobre mim e entrar em contato através do [LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/)
 
