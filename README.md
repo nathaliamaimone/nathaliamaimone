@@ -7,11 +7,14 @@ Always looking for continuous improvement and new experiences in the area of tec
 
 ### GitHub Stats
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathaliamaimone&show_icons=true&theme=radical" alt="Nathalia's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nathaliamaimone&show_icons=true&theme=radical&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=d9534f"
+    alt="Nathalia's GitHub Stats" />
   &emsp;&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliamaimone&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliamaimone&layout=compact&theme=radical&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=d9534f"
+    alt="Top Languages" />
 </p>
 
 ---
