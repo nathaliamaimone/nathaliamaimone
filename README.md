@@ -1,11 +1,11 @@
 # Hi, I'm Nathália Maimone 👋
 
-Profissional focada em **Qualidade de Software (QA)**, com formação em **Análise e Desenvolvimento de Sistemas**.  
-Sempre em busca de aprimoramento contínuo e novas experiências na área de tecnologia e testes de software.
+Professional focused on **Software Quality (QA)**, with a degree in **Systems Analysis and Development**.  
+Always looking for continuous improvement and new experiences in the area of technology and software testing.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 <p align="left">
@@ -16,7 +16,7 @@ Sempre em busca de aprimoramento contínuo e novas experiências na área de tec
 
 ---
 
-### ⚡ Technologies & Tools
+###  Technologies & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -32,9 +32,9 @@ Sempre em busca de aprimoramento contínuo e novas experiências na área de tec
 
 ---
 
-### 📫 Let's connect!
+###  Let's connect!
 
-Você pode saber mais sobre mim e entrar em contato através do [LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/).
+You can find out more about me and get in touch at [LinkedIn](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nath%C3%A1lia-maimone-87a7861a6/)
 
